@@ -1,0 +1,33 @@
+.table-sortable  {
+    size: 900px;
+}
+
+.table-sortable  {
+  content: "\25b4";
+}
+
+.table-sortable  {
+  content: "\25be";
+}
+
+.table-sortable .th-sort-asc::after,
+.table-sortable .th-sort-desc::after {
+  margin-left: 5px;
+}
+
+.table-sortable .th-sort-asc,
+.table-sortable .th-sort-desc {
+  background: rgba(0, 0, 0, 0.1);
+}
+.table-sortable {
+  background-color: rgb(242, 240, 244);
+  margin: 5px;
+  text-align: center;
+  font-size: large;
+  font-weight: 300;
+  border: solid =0.5; color: blueviolet;
+
+}  
+.th-sort-desc {
+ color: blueviolet;
+}
